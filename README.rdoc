@@ -1,0 +1,7 @@
+== Generate
+Rails 3 generators that may be of use to somebody.
+
+=== Assets
+* assets:jquery
+* assets:layout
+* assets:nine_sixty
